@@ -17,7 +17,7 @@
     <div class="container">
         <div class="alert alert-info text-center">
             <h4 style="margin-bottom: 0px">
-                <b>selamat datang !</b>di sestem informasi laundry
+                <b>selamat datang !</b>di sistem informasi laundry
             </h4>
         </div>
         <div class="panel">
